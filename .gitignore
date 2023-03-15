@@ -1,0 +1,16 @@
+
+# datasets related stuff
+data/dataset/*.csv
+data/dataset/annotations_train
+data/dataset/annotations_test
+data/dataset/annotations_validation
+data/dataset/train
+data/dataset/test
+data/dataset/validation
+
+# models
+*.tflite
+
+# environment
+env
+.env
